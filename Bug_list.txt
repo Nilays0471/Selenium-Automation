@@ -1,0 +1,21 @@
+username is not selecteble
+
+selection role is not giving the roles to select
+
+username and hostel code are sometimes locked
+
+log in error
+
+in the forgot password after clicking submit button nothing showing up.
+
+after opening the website for 30 or 20 min token issue is generated.(Refresh token not found.)
+
+registration of the student is possible without address
+
+after registering only one student 3 entries are made at manager side.
+
+at the dashboard the admission count is always 10 no changes are made as per the request.
+
+superadmin login 
+account setup (unenrolled not added etc.)
+sort by, filter by, clear filter(manager)
